@@ -10,6 +10,16 @@ This project analyzes hospital encounter data from patients with diabetes, focus
 
 The project combines exploratory data analysis, statistical confidence intervals, and interactive data visualization in a Streamlit dashboard.
 
+## Dashboard Preview
+
+### Overview
+
+![Healthcare Analytics Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Readmission Analysis
+
+![Healthcare Readmission Analysis](screenshots/dashboard_analysis.png)
+
 ## Dataset
 
 **Dataset:** Diabetes 130-US Hospitals for Years 1999–2008
