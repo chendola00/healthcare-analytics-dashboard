@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# macOS
+.DS_Store
+
+# Local datasets
+data/raw/
+data/processed/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
